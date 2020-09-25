@@ -1,4 +1,8 @@
 #image {
- width: 100%;
- margin: auto;
+ width: 50%;
+ margin-left: auto;
+ margin-right: auto;
+ height: auto;
+ max-width: 625px;
+ display: block;
 }
